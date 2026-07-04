@@ -1,11 +1,6 @@
-{    
-    "name": "Media Cast Station",
-    "version": "0.0.1",
-    "parameter": "menu:https://ivan-pentester.github.io/MSXPortal/menu.json",
-    "welcome": "none",
-    "launcher": {
-        "icon": "blank",
-        "image": "http://link.to.image",
-        "color": "msx-black-soft"
-    }
+{
+  "name": "Media Cast Station",
+  "version": "1.0",
+  "parameter": "menu:https://ivan-pentester.github.io/Media-Cast-Station/menu.json",
+  "welcome": "none"
 }
